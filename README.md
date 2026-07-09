@@ -20,10 +20,9 @@ It works by intercepting a custom hotkey, reading the text from your clipboard, 
 *   **Configurable**: Hotkey and all settings can be customized in a clean `Settings.ini` file.
 
 ### Installation
-1. Download and install [AutoHotkey v2](https://www.autohotkey.com/).
-2. Clone or download this repository.
-3. Run `ForcePaste.ahk`.
-4. (Optional) Customize settings in `Settings.ini`.
+*   **Option 1 (Precompiled exe)**: Simply run `ForcePaste.exe` directly. No installation required.
+*   **Option 2 (Source script)**: Download and install [AutoHotkey v2](https://www.autohotkey.com/) and run `ForcePaste.ahk`.
+*   (Optional) Customize settings in `Settings.ini`.
 
 ### Configuration (`Settings.ini`)
 *   `Hotkey`: Custom trigger key (Default: `^+s` for `Ctrl+Shift+S`).
@@ -49,10 +48,9 @@ It works by intercepting a custom hotkey, reading the text from your clipboard, 
 *   **Конфигурируемость**: Все настройки сохраняются в удобном файле `Settings.ini`.
 
 ### Инструкция по запуску
-1. Скачайте и установите [AutoHotkey v2](https://www.autohotkey.com/).
-2. Склонируйте или скачайте файлы этого репозитория.
-3. Запустите файл `ForcePaste.ahk`.
-4. (Опционально) Настройте параметры в файле `Settings.ini`.
+*   **Вариант 1 (Скомпилированный .exe)**: Просто запустите готовый исполняемый файл `ForcePaste.exe` (установка AutoHotkey не требуется).
+*   **Вариант 2 (AHK-скрипт)**: Установите [AutoHotkey v2](https://www.autohotkey.com/) и запустите исходный скрипт `ForcePaste.ahk`.
+*   (Опционально) Настройте параметры в файле `Settings.ini`.
 
 ### Параметры конфигурации (`Settings.ini`)
 *   `Hotkey`: Горячая клавиша активации (По умолчанию: `^+s` для `Ctrl+Shift+S`).
